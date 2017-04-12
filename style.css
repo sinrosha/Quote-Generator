@@ -1,0 +1,72 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Raleway;
+    background-color: #ab0808;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    position: relative;
+    top: 80px;
+}
+ h1 {
+    color: #fff;
+    font-family: Raleway;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    margin: 50px 0 30px 0;
+ }
+
+ #quotebox {
+    background-color: #fff;
+    border-radius: 15px 50px;
+    width: 50%;
+    margin: 0 auto;
+ }
+
+ .btn {
+    display: inline-block;
+    background-color: #ab0808;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    padding: 6px 16px;
+    border-style: none;
+ }
+
+ .btn-new {
+    position: relative;
+    left: 300px;
+    margin-bottom: 40px;
+ }
+
+ .btn-tweet {
+    position: relative;
+    left: 40px;
+ }
+
+.quote-logo {
+    position: relative;
+    top:20px;
+    left: 40px;
+    color: #ab0808;
+}
+
+#quote {
+    margin: 50px 60px 30px 90px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    color: #ab0808;
+    word-spacing: 4px;
+}
+
+ footer {
+    text-align: right;
+    font-size: 18px;
+    margin: 20px 50px;
+    font-family: 'Indie Flower', cursive;
+    color: #ab0808;
+ }
