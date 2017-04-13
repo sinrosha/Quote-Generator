@@ -9,7 +9,7 @@ body {
     width: 80%;
     margin: auto;
     position: relative;
-    top: 80px;
+    top: 60px;
 }
  h1 {
     color: #fff;
@@ -39,14 +39,10 @@ body {
 
  .btn-new {
     position: relative;
-    left: 300px;
+    left: 200px;
     margin-bottom: 40px;
  }
 
- .btn-tweet {
-    position: relative;
-    left: 40px;
- }
 
 .quote-logo {
     position: relative;
@@ -61,6 +57,11 @@ body {
     font-family: 'Lato', sans-serif;
     color: #ab0808;
     word-spacing: 4px;
+}
+
+#footer {
+   color: #fff;
+   text-align: center;
 }
 
  footer {
